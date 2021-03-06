@@ -155,20 +155,6 @@ const ChannelData: React.FC = () => {
           content="Eu sou um robô 🤖"
           isBot
         />
-
-        <ChannelMessage
-          author="Smile Ronaldo"
-          date="05/03/2021"
-          content="Eu sou um robô 🤖"
-          isBot
-        />
-
-        <ChannelMessage
-          author="Smile Ronaldo"
-          date="05/03/2021"
-          content="Eu sou um robô 🤖"
-          isBot
-        />
       </Messages>
 
       <InputWrapper>
